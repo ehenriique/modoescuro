@@ -1,0 +1,48 @@
+body{
+
+    padding: 25px;;
+    background-color: white;
+    color: black;
+    font-size: 10px;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.dark-mode #card-group{
+    color: white;
+    background-color: black;
+}
+
+
+.card{
+    text-align: center;
+}
+
+.card img {
+    width: 150px;
+    height: 150px;
+    margin-left: 190px;
+}
+
+
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+
+.rodape a:focus{
+    font-size: 1px;
+}
+
+.titulo {
+    background: #403a40;
+    text-align: center;
+    color: white;
+
+}
+
+
